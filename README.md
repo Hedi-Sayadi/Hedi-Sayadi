@@ -2,7 +2,7 @@
 <p align="center">
 &nbsp;
 <a href="https://www.linkedin.com/in/hedi-sayadi/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-  ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 <!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hedi-Sayadi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
