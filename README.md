@@ -1,18 +1,17 @@
 # Hi there! 
 <p align="center">
 &nbsp;
-<a href="https://www.linkedin.com/in/arafet-ben-kilani/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-<a href="https://gitlab.com/arfetk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" alt="apoorvtyagi" height="20" width="20" /></a>
-
+<a href="https://www.linkedin.com/in/hedi-sayadi/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+      
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 👋 Hi, I am Arafet Ben Kilani
+- 👋 Hi, I am Hedi Sayadi !
 - 🌱 I'm 5th-Year **IT** Engineering Student @ [SUP'COM](https://supcom.tn/) 🏦 
 - 📝 I regulary write **technical articles** for [dev.to](https://dev.to/arafetki)
 - 💻 I use daily: **.go**, **.js / .ts**, **.py**,  **.sql**, **.yml**, **.tf**
 - 👀 I am interested in **Cloud Computing**, **DevSecOps** and **Programming**
-- 📫 You can reach me on my email : arafet.benkilani@supcom.tn to **collaborate** on some projects. 
+- 📫 You can reach me on my email : hedi.sayadi@supcom.tn. 
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
