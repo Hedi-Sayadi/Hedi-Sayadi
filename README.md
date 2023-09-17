@@ -14,19 +14,17 @@
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
-      <img src="[https://www.svgrepo.com/show/373635/go-gopher.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQskALxpNXUNt7naftdZ77u66lQ1oQft4nwt3jpd2U&s)" alt="golang" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="55" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="Postgresql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>      
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>      
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GITLAB" width="55" height="55"/>       
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/vaultprojectio/vaultprojectio-icon.svg" alt="Vault" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Istio" width="55" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" alt="aws" width="65" height="65"/>
-      <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="terraform" width="55" height="55"/>      
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>      
-      <img src="https://media.slid.es/uploads/1005350/images/6982390/podman.svg" alt="podman" width="60" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
 
 
