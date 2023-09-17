@@ -5,7 +5,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 👋 Hi, I am Hedi Sayadi !
 - 🌱 I'm 5th-Year **IT** Engineering Student @ [SUP'COM](https://supcom.tn/) 🏦 
-- 💻 I use daily: **.go**, **.js / .ts**, **.py**,  **.sql**, **.yml**, **.tf**
 - 👀 I am interested in **Cloud Computing**, **DevSecOps** and **Programming**
 - 📫 You can reach me on my email : hedi.sayadi@supcom.tn. 
 - 🧑‍💻 Tech I work on :
