@@ -8,14 +8,13 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 👋 Hi, I am Hedi Sayadi !
 - 🌱 I'm 5th-Year **IT** Engineering Student @ [SUP'COM](https://supcom.tn/) 🏦 
-- 📝 I regulary write **technical articles** for [dev.to](https://dev.to/arafetki)
 - 💻 I use daily: **.go**, **.js / .ts**, **.py**,  **.sql**, **.yml**, **.tf**
 - 👀 I am interested in **Cloud Computing**, **DevSecOps** and **Programming**
 - 📫 You can reach me on my email : hedi.sayadi@supcom.tn. 
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
-      <img src="https://www.svgrepo.com/show/373635/go-gopher.svg" alt="golang" width="55" height="55"/>
+      <img src="[https://www.svgrepo.com/show/373635/go-gopher.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQskALxpNXUNt7naftdZ77u66lQ1oQft4nwt3jpd2U&s)" alt="golang" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>      
