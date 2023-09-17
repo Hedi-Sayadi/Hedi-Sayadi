@@ -50,4 +50,3 @@
 <p align="center">
 &nbsp;
 <a href="https://www.linkedin.com/in/hedi-sayadi/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-![](https://komarev.com/ghpvc/?Hedi-Sayadi=[Hedi-Sayadi](https://github.com/Hedi-Sayadi)https://github.com/Hedi-Sayadi&color=green)
