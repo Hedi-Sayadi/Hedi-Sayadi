@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Profile Visitors](https://shields.io/badge/dynamic/json?color=green&label=Profile%20Visitors&query=%24.value&url=[https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fyour-username.github.io%2Freadme](https://github.com/Hedi-Sayadi))
+![Profile Visitors](https://shields.io/badge/dynamic/json?color=green&label=Profile%20Visitors&query=%24.value&url=https://github.com/Hedi-Sayadi)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hedi-Sayadi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
 **Hedi-Sayadi/Hedi-Sayadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
