@@ -4,7 +4,7 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 👋 Hi, I am Hedi Sayadi !
-- 🌱 I'm 5th-Year **IT** Engineering Student @ [SUP'COM](https://supcom.tn/) 🏦 
+- 🌱 I'm 5th-Year **ICT** Engineering Student @ [SUP'COM](https://supcom.tn/) 🏦 
 - 👀 I am interested in **Cloud Computing**, **DevSecOps** and **Programming**
 - 📫 You can reach me on my email : hedi.sayadi@supcom.tn. 
 - 🧑‍💻 Tech I work on :
@@ -23,6 +23,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" alt="aws" width="65" height="65"/>
 </p>
 <hr>
+
 ### ⚡ Stats ⚡
 <p align=center>
   <div align=center>
