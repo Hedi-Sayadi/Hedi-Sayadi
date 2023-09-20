@@ -23,7 +23,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" alt="aws" width="65" height="65"/>
 </p>
 <hr>
-## ⚡ Stats ⚡
+### ⚡ Stats ⚡
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
