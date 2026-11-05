@@ -23,22 +23,20 @@
 </p>
 <hr>
 
-### ⚡ Stats ⚡
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hedi-Sayadi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedi-Sayadi&hide=c%23,powershell,Mathematica,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-</p>
+## GitHub stats
 
-<hr>
+The cards below are provided by
+[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
+If the card service is temporarily unavailable, use the direct links:
+[profile](https://github.com/Hedi-Sayadi) and
+[repositories](https://github.com/Hedi-Sayadi?tab=repositories).
 
-### <img src="https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="23" /> Connect with me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/hedi-sayadi/" target="blank">
-    <img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-</p>
+[![Hedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hedi-Sayadi&show_icons=true&theme=react&border_color=61dafb&hide_border=true)](https://github.com/Hedi-Sayadi)
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hedi-Sayadi&hide=c%23,powershell,Mathematica,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)](https://github.com/Hedi-Sayadi?tab=repositories)
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/hedi-sayadi/)
+- [GitHub](https://github.com/Hedi-Sayadi)
+- [Email](mailto:sayadi01@ads.uni-passau.de)
